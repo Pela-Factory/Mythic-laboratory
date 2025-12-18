@@ -1,0 +1,8 @@
+zombietester:
+  display: "&b zombie tester"
+  id: arrow
+  Lore: 
+  - "&a summons zombies 8==>"
+  Skills:
+  - summon{amount=1;type=zombie} ~onUse @targetLocation
+  ##Summons zombies toward the position you are looking at##
