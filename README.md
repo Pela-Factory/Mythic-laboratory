@@ -19,7 +19,7 @@ A showcase of some of my work in Minecraft server development, including custom 
 
 [Watch the showcase on YouTube](https://www.youtube.com/watch?v=DqVzqTOhy7Q)
 
-## Lord of Shades
+## Lord of Shades (a model example)
 
 A custom 3D character model and animation project created for a Minecraft server.
 
